@@ -7,7 +7,7 @@ Rather he came to deen at his college or university life. Leaves all his <br> wr
 Why we cannot do that because it's availabe in our fingertip. It's free.<br>
 So when we get alone, when it's dark. We cannot restrain ourselve and commit <br> the sin. Guilt sorrounds us from everywhere after the event. We repent and the next night same sin happens.<br>
 
-When I read "Mukto Bataser khoje" (pdf)[https://www.docdroid.net/qx6xK8K/mukt-bataser-khonnje-pdf#page=7] it touched my heart. Only if the pn sites <br> were unavailable to us. 
+When I read "Mukto Bataser khoje" [pdf](https://www.docdroid.net/qx6xK8K/mukt-bataser-khonnje-pdf#page=7) it touched my heart. Only if the pn sites <br> were unavailable to us. 
 
 I have made a script for computer. If we ran the script on our computer <br>
 It will block those sites.
@@ -46,7 +46,7 @@ i.e
 3. **Navigate to the Folder**: Navigate to the folder where you saved `block_sites.bat`.
 i.e
     ```cmd
-    cd cd %USERPROFILE%\Downloads
+    cd %USERPROFILE%\Downloads
 
     ```
 
